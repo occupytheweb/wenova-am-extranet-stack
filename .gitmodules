@@ -1,0 +1,3 @@
+[submodule "wenova-am-extranet-api"]
+	path = wenova-am-extranet-api
+	url = https://github.com/occupytheweb/wenova-am-extranet-api
